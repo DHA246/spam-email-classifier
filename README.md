@@ -13,6 +13,8 @@ A machine learning project that classifies email/SMS messages as Spam or Ham (No
 - Scikit-learn
 - Pandas
 - NumPy
+- TensorFlow
+- Jupyter Notebook
 
 ## Dataset
 The model is trained on a labeled spam dataset.
